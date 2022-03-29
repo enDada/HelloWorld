@@ -193,10 +193,11 @@ public class StudentMgr
 	}
 	
 	private boolean isExistSTUID(String stuID) throws Exception {
-	        Statement stmt=conn.createStatement();
+
+	         Statement stmt=conn.createStatement();
 			 ResultSet rst = null;
 			 try{
-			 	rst=stmt.executeQuery("select * from student where STUID='" + stuID+ "';");
+			 	 rst=stmt.executeQuery("select * from student where STUID='" + stuID+ "';");
 				 while(rst.next())
 			     {
 				 	if(stuID.equals(rst.getString("STUID"))){
@@ -206,7 +207,7 @@ public class StudentMgr
 			 } catch (SQLException e){
 			 	throw e;
 			 } finally {
-			 	if(conn != null) {
+				 if(conn != null) {
 			 		conn.close();
 			 	}
 			 }
