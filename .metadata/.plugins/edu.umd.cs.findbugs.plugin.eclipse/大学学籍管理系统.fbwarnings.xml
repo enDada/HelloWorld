@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.1-dev-20150306-5afe4d1" sequence="1" timestamp="1648536442419" analysisTimestamp="1648536439860" release="">
+  <Project projectName="&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;">
+    <Jar>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\classes\com\ustc\biz\StudentMgr.class</Jar>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\classes</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\aspectjrt.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\commons-beanutils.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\commons-collections.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\commons-dbcp-1.2.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\commons-digester.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\commons-el.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\commons-fileupload.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\commons-lang.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\commons-logging.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\commons-validator.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\jakarta-oro.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\jasper-compiler-jdt.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\jasper-compiler.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\jasper-runtime.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\jsp-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\jstl.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\mysql-connector-java-3.1.14-bin-g.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\mysql-connector-java-3.1.14-bin.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\naming-factory-dbcp.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\naming-factory.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\naming-resources.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\servlet-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\standard.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\web\WEB-INF\lib\struts.jar</AuxClasspathEntry>
+    <SrcDir>C:\Users\XZW\eclipse-workspace\&#22823;&#23398;&#23398;&#31821;&#31649;&#29702;&#31995;&#32479;\HelloWorld\JavaEE_SRC\myapp\src\java</SrcDir>
+    <Cloud id="edu.umd.cs.findbugs.cloud.doNothingCloud" online="false"></Cloud>
+  </Project>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.ustc.biz.StudentMgr">
+      <SourceLine classname="com.ustc.biz.StudentMgr" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Class>
+    <Method classname="com.ustc.biz.StudentMgr" name="addStudent" signature="(Lcom/ustc/vo/StudentVO;)V" isStatic="false">
+      <SourceLine classname="com.ustc.biz.StudentMgr" start="24" end="34" startBytecode="0" endBytecode="73" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/Statement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.Statement"/>
+    </Type>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="24" end="24" startBytecode="4" endBytecode="4" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="24" end="24" startBytecode="4" endBytecode="4" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.ustc.biz.StudentMgr">
+      <SourceLine classname="com.ustc.biz.StudentMgr" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Class>
+    <Method classname="com.ustc.biz.StudentMgr" name="deleteStudent" signature="(Ljava/lang/String;)V" isStatic="false">
+      <SourceLine classname="com.ustc.biz.StudentMgr" start="162" end="173" startBytecode="0" endBytecode="36" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/Statement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.Statement"/>
+    </Type>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="162" end="162" startBytecode="4" endBytecode="4" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="162" end="162" startBytecode="4" endBytecode="4" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.ustc.biz.StudentMgr">
+      <SourceLine classname="com.ustc.biz.StudentMgr" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Class>
+    <Method classname="com.ustc.biz.StudentMgr" name="getAllStudents" signature="()Ljava/util/ArrayList;" isStatic="false">
+      <SourceLine classname="com.ustc.biz.StudentMgr" start="53" end="76" startBytecode="0" endBytecode="76" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/Statement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.Statement"/>
+    </Type>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="53" end="53" startBytecode="4" endBytecode="4" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="53" end="53" startBytecode="4" endBytecode="4" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.ustc.biz.StudentMgr">
+      <SourceLine classname="com.ustc.biz.StudentMgr" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Class>
+    <Method classname="com.ustc.biz.StudentMgr" name="getSearchStudents" signature="(Ljava/lang/String;)Ljava/util/ArrayList;" isStatic="false">
+      <SourceLine classname="com.ustc.biz.StudentMgr" start="101" end="126" startBytecode="0" endBytecode="107" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/Statement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.Statement"/>
+    </Type>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="101" end="101" startBytecode="4" endBytecode="4" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="101" end="101" startBytecode="4" endBytecode="4" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.ustc.biz.StudentMgr">
+      <SourceLine classname="com.ustc.biz.StudentMgr" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Class>
+    <Method classname="com.ustc.biz.StudentMgr" name="getStudentByID" signature="(Ljava/lang/String;)Lcom/ustc/vo/StudentVO;" isStatic="false">
+      <SourceLine classname="com.ustc.biz.StudentMgr" start="132" end="156" startBytecode="0" endBytecode="80" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/Statement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.Statement"/>
+    </Type>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="132" end="132" startBytecode="4" endBytecode="4" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="132" end="132" startBytecode="4" endBytecode="4" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.ustc.biz.StudentMgr">
+      <SourceLine classname="com.ustc.biz.StudentMgr" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Class>
+    <Method classname="com.ustc.biz.StudentMgr" name="getUserNameByID" signature="(Ljava/lang/String;)Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="com.ustc.biz.StudentMgr" start="82" end="95" startBytecode="0" endBytecode="33" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/Statement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.Statement"/>
+    </Type>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="82" end="82" startBytecode="4" endBytecode="4" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="82" end="82" startBytecode="4" endBytecode="4" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.ustc.biz.StudentMgr">
+      <SourceLine classname="com.ustc.biz.StudentMgr" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Class>
+    <Method classname="com.ustc.biz.StudentMgr" name="isExistSTUID" signature="(Ljava/lang/String;)Z" isStatic="false">
+      <SourceLine classname="com.ustc.biz.StudentMgr" start="196" end="213" startBytecode="0" endBytecode="56" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/Statement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.Statement"/>
+    </Type>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="196" end="196" startBytecode="4" endBytecode="4" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="196" end="196" startBytecode="4" endBytecode="4" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+  </BugInstance>
+  <BugInstance type="ODR_OPEN_DATABASE_RESOURCE" priority="2" rank="16" abbrev="ODR" category="BAD_PRACTICE" first="1">
+    <Class classname="com.ustc.biz.StudentMgr">
+      <SourceLine classname="com.ustc.biz.StudentMgr" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Class>
+    <Method classname="com.ustc.biz.StudentMgr" name="updateStudent" signature="(Lcom/ustc/vo/StudentVO;)V" isStatic="false">
+      <SourceLine classname="com.ustc.biz.StudentMgr" start="38" end="49" startBytecode="0" endBytecode="86" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Method>
+    <Type descriptor="Ljava/sql/Statement;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.sql.Statement"/>
+    </Type>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="38" end="38" startBytecode="10" endBytecode="10" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="38" end="38" startBytecode="10" endBytecode="10" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+  </BugInstance>
+  <BugInstance type="RCN_REDUNDANT_NULLCHECK_WOULD_HAVE_BEEN_A_NPE" priority="2" rank="11" abbrev="RCN" category="CORRECTNESS" first="1">
+    <Class classname="com.ustc.biz.StudentMgr">
+      <SourceLine classname="com.ustc.biz.StudentMgr" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Class>
+    <Method classname="com.ustc.biz.StudentMgr" name="isExistSTUID" signature="(Ljava/lang/String;)Z" isStatic="false">
+      <SourceLine classname="com.ustc.biz.StudentMgr" start="196" end="213" startBytecode="0" endBytecode="314" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Method>
+    <Field classname="com.ustc.biz.StudentMgr" name="conn" signature="Ljava/sql/Connection;" isStatic="false" role="FIELD_VALUE_OF">
+      <SourceLine classname="com.ustc.biz.StudentMgr" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Field>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="196" end="196" startBytecode="4" endBytecode="4" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="209" end="209" startBytecode="100" endBytecode="100" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java" role="SOURCE_REDUNDANT_NULL_CHECK"/>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="209" end="209" startBytecode="100" endBytecode="100" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java" role="SOURCE_REDUNDANT_NULL_CHECK"/>
+  </BugInstance>
+  <BugInstance type="SQL_NONCONSTANT_STRING_PASSED_TO_EXECUTE" priority="1" rank="10" abbrev="SQL" category="SECURITY" first="1">
+    <Class classname="com.ustc.biz.StudentMgr">
+      <SourceLine classname="com.ustc.biz.StudentMgr" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Class>
+    <Method classname="com.ustc.biz.StudentMgr" name="addStudent" signature="(Lcom/ustc/vo/StudentVO;)V" isStatic="false">
+      <SourceLine classname="com.ustc.biz.StudentMgr" start="24" end="34" startBytecode="0" endBytecode="73" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Method>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="29" end="29" startBytecode="153" endBytecode="153" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="29" end="29" startBytecode="153" endBytecode="153" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+  </BugInstance>
+  <BugInstance type="SQL_NONCONSTANT_STRING_PASSED_TO_EXECUTE" priority="1" rank="10" abbrev="SQL" category="SECURITY" first="1">
+    <Class classname="com.ustc.biz.StudentMgr">
+      <SourceLine classname="com.ustc.biz.StudentMgr" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Class>
+    <Method classname="com.ustc.biz.StudentMgr" name="getStudentByID" signature="(Ljava/lang/String;)Lcom/ustc/vo/StudentVO;" isStatic="false">
+      <SourceLine classname="com.ustc.biz.StudentMgr" start="132" end="156" startBytecode="0" endBytecode="80" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Method>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="138" end="138" startBytecode="41" endBytecode="41" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="138" end="138" startBytecode="41" endBytecode="41" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+  </BugInstance>
+  <BugInstance type="SQL_NONCONSTANT_STRING_PASSED_TO_EXECUTE" priority="1" rank="10" abbrev="SQL" category="SECURITY" first="1">
+    <Class classname="com.ustc.biz.StudentMgr">
+      <SourceLine classname="com.ustc.biz.StudentMgr" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Class>
+    <Method classname="com.ustc.biz.StudentMgr" name="isExistSTUID" signature="(Ljava/lang/String;)Z" isStatic="false">
+      <SourceLine classname="com.ustc.biz.StudentMgr" start="196" end="213" startBytecode="0" endBytecode="56" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Method>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="199" end="199" startBytecode="35" endBytecode="35" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="199" end="199" startBytecode="35" endBytecode="35" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+  </BugInstance>
+  <BugInstance type="SQL_NONCONSTANT_STRING_PASSED_TO_EXECUTE" priority="1" rank="10" abbrev="SQL" category="SECURITY" first="1">
+    <Class classname="com.ustc.biz.StudentMgr">
+      <SourceLine classname="com.ustc.biz.StudentMgr" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Class>
+    <Method classname="com.ustc.biz.StudentMgr" name="updateStudent" signature="(Lcom/ustc/vo/StudentVO;)V" isStatic="false">
+      <SourceLine classname="com.ustc.biz.StudentMgr" start="38" end="49" startBytecode="0" endBytecode="86" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    </Method>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="44" end="44" startBytecode="191" endBytecode="191" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+    <SourceLine classname="com.ustc.biz.StudentMgr" start="44" end="44" startBytecode="191" endBytecode="191" sourcefile="StudentMgr.java" sourcepath="com/ustc/biz/StudentMgr.java"/>
+  </BugInstance>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Wed, 23 Feb 2022 15:06:00 +0800" total_classes="1" referenced_classes="3" total_bugs="13" total_size="145" num_packages="1" java_version="17.0.2" vm_version="17.0.2+8" cpu_seconds="11.20" clock_seconds="2.56" peak_mbytes="481.81" alloc_mbytes="2048.00" gc_seconds="0.04" priority_2="9" priority_1="4">
+    <PackageStats package="com.ustc.biz" total_bugs="13" total_types="1" total_size="145" priority_2="9" priority_1="4">
+      <ClassStats class="com.ustc.biz.StudentMgr" sourceFile="StudentMgr.java" interface="false" size="145" bugs="13" priority_2="9" priority_1="4"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="314" invocations="2" avgMicrosecondsPerInvocation="157176" maxMicrosecondsPerInvocation="205292" standardDeviationMircosecondsPerInvocation="48116"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="46" invocations="11" avgMicrosecondsPerInvocation="4238" maxMicrosecondsPerInvocation="8233" standardDeviationMircosecondsPerInvocation="2488"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="37" invocations="11" avgMicrosecondsPerInvocation="3363" maxMicrosecondsPerInvocation="18424" standardDeviationMircosecondsPerInvocation="4890"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindOpenStream" totalMilliseconds="34" invocations="1" avgMicrosecondsPerInvocation="34653" maxMicrosecondsPerInvocation="34653" standardDeviationMircosecondsPerInvocation="0"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="34" invocations="11" avgMicrosecondsPerInvocation="3135" maxMicrosecondsPerInvocation="29534" standardDeviationMircosecondsPerInvocation="8356"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="30" invocations="11" avgMicrosecondsPerInvocation="2769" maxMicrosecondsPerInvocation="7572" standardDeviationMircosecondsPerInvocation="2078"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="26" invocations="161" avgMicrosecondsPerInvocation="166" maxMicrosecondsPerInvocation="500" standardDeviationMircosecondsPerInvocation="70"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="22" invocations="11" avgMicrosecondsPerInvocation="2082" maxMicrosecondsPerInvocation="8287" standardDeviationMircosecondsPerInvocation="2129"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="22" invocations="11" avgMicrosecondsPerInvocation="2010" maxMicrosecondsPerInvocation="4799" standardDeviationMircosecondsPerInvocation="1574"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="22" invocations="11" avgMicrosecondsPerInvocation="2004" maxMicrosecondsPerInvocation="8811" standardDeviationMircosecondsPerInvocation="2412"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="16" invocations="11" avgMicrosecondsPerInvocation="1545" maxMicrosecondsPerInvocation="4546" standardDeviationMircosecondsPerInvocation="1321"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="15" invocations="159" avgMicrosecondsPerInvocation="96" maxMicrosecondsPerInvocation="12146" standardDeviationMircosecondsPerInvocation="962"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="14" invocations="17" avgMicrosecondsPerInvocation="851" maxMicrosecondsPerInvocation="13454" standardDeviationMircosecondsPerInvocation="3156"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="12" invocations="17" avgMicrosecondsPerInvocation="751" maxMicrosecondsPerInvocation="2015" standardDeviationMircosecondsPerInvocation="539"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1648536442418" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>

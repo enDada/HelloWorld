@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="com.zufe"/>
+			<item value="大学学籍管理系统"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="maven_test"/>
+			<item value="大学学籍管理系统"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
